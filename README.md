@@ -36,7 +36,7 @@ I worked on both `bash` and `batch` scripts. I already experienced the `bash` sc
 
 ### Batch
 
-Regardind the `batch` script, I couldn't figure out an acceptable way to execute the right files in the right order.
+Regarding the `batch` script, I couldn't figure out an acceptable way to execute the right files in the right order.
 I couldn't either find a way to treat warning and errors.
 
 The uploaded file :
